@@ -1,2 +1,2 @@
-# Tradutora Preta
-Repository of the Tradutora Preta redirect website.
+# Redirect tradutorapreta.com to Substack
+Redirect.
